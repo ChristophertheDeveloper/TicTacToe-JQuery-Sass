@@ -1,0 +1,1 @@
+.grid{display:grid;grid-template-rows:repeat(3, 300px);grid-template-columns:repeat(3, 300px);grid-gap:1px}.cell{border:10px solid black;padding-top:50px;text-align:center;font-size:180px;font-family:Arial, Helvetica, sans-serif}
